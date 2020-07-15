@@ -17,5 +17,4 @@ I have recently started my journey in contributing towards open-source projects 
 Thanks for reading till here! Please go ahead and explore my Repositories!
 
 
-> Credits: Banner created via Canva.com
-> Illustration by freekpik.com
+> Credits: Banner created via Canva.com, Illustration by freekpik.com
