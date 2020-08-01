@@ -4,7 +4,7 @@
 
 This is Vidya. I have done my **Masters in Physics** and eventually found my love for **Data** which lead me to pursue career in **Data Science**. 
 
-I am a beginner at coding but a fast learner too! To make coding as a habit, I have started #100DaysOfCode and #100DaysOfMLCode on my personal Twitter account. I'm currently pursuing courses on DataCamp and you can [have a look at profile](https://www.datacamp.com/profile/vidyapb) to see my progress! 
+I am a beginner at coding but a fast learner too! To make coding as a habit. I'm currently pursuing courses on DataCamp and you can [have a look at profile](https://www.datacamp.com/profile/vidyapb) to see my progress! 
 
 I usually work on Python projects or Data Science projects to improve my coding skills. I'm also interested in **Data Collection/Web Scraping** and I upload and updated them time to time on my [Kaggle account](https://www.kaggle.com/vidyapb) (Feel free to work on them!). 
 
